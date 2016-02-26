@@ -5,7 +5,7 @@ th, td      {
                vertical-align: top;
                text-align: right;
                font-size:large;
-               // border: 1px solid black;
+              
             }     /* Don't center table cells  */
 #converted  { color: red; font-weight: bold; font-size:large;          }     /* Calculated values in bold */
 input       {
@@ -65,7 +65,7 @@ h1 {
   margin-top: 0;
 }
 .temperatura{
-  width: 60;
+  width: 60px;
   height: 60px;
 }
 
