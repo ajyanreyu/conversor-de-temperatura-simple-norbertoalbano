@@ -14,7 +14,7 @@ input       {
               font-size:large;       }
 body
 {
- background-color:#fffff;  /* blanco */
+ background-color:#ffffff;  /* blanco */
  font-size:large;
  font-family: "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
 }
@@ -45,7 +45,7 @@ h1 {
   padding-top: 10px;
   width: 75%;
   vertical-align: middle;
-  margin-top: 0 auto;
+  margin-top: 0;
 
 }
 
