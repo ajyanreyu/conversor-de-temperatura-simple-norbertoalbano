@@ -15,6 +15,8 @@
 ### Despliegue en github.io
 
 *[http://ajyanreyu.github.io/conversor-de-temperatura-simple-norbertoalbano/](http://ajyanreyu.github.io/conversor-de-temperatura-simple-norbertoalbano/)
+*[Campus Virtual](https://campusvirtual.ull.es/1516/course/view.php?id=178)
+*[ULL-ESIT-GRADOII-PL/ull-etsii-grado-pl-1213-temperature-converter](https://github.com/ULL-ESIT-GRADOII-PL/ull-etsii-grado-pl-1213-temperature-converter)
 
 ### Ejecutar las pruebas(no en esta practica)
 
