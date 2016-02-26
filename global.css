@@ -5,7 +5,7 @@ th, td      {
                vertical-align: top;
                text-align: right;
                font-size:large;
-               // border: 1px solid black;
+
             }     /* Don't center table cells  */
 #converted  { color: red; font-weight: bold; font-size:large;          }     /* Calculated values in bold */
 input       {
@@ -14,7 +14,7 @@ input       {
               font-size:large;       }
 body
 {
- background-color:#fffff;  /* blanco */
+ background-color:#ffffff;  /* blanco */
  font-size:large;
  font-family: "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
 }
@@ -65,7 +65,7 @@ h1 {
   margin-top: 0;
 }
 .temperatura{
-  width: 60;
+  width: 60px;
   height: 60px;
 }
 
